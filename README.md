@@ -99,7 +99,7 @@ The Android app market is growing rapidly and becoming more competitive, with de
   -  Minecraft is most revenue (47.6%) generated app in play store.
 - **Suggestions** - Developers should focus in Family ,Lifestyle and Games with genres Arcade Action and Adventure , Lifestyle and Action for developing paid apps in case with everyone Age Group.
 
-- **Findings**-
+### Findings
 
   -  Google News , Maps - Navigate & Explore , Google Street View , YouTube, Google Play Movies & TV ,Google+ ,Instagram , Facebook , Google, Google Play Books are top 10 most installed apps in play store.
 
